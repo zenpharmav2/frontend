@@ -34,3 +34,6 @@ Thumbs.db
 
 # Misc
 .cache/
+
+# Local secrets — never commit
+*secrets*.txt
